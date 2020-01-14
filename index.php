@@ -325,7 +325,7 @@ if (isset($_SESSION['supplier_id'])) {
     ?>
     <SCRIPT LANGUAGE='JavaScript'>
     // alert('Please Login or Register!!');
-    window.location.href = 'supplier-login.php';
+    window.location.href = 'terminal-login.php';
     </Script>
 
     <?php
