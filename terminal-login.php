@@ -49,7 +49,7 @@ if (!isset($_SESSION['supplier_id'])) {
 <html>		
 <head>
 <!-- Page Title -->
-<title>Supplier Login | The Travel Square Business</title>
+<title>Terminal Login | The Travel Square Business</title>
 
 <!-- Meta Tags -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -165,8 +165,8 @@ width: 40%;
   <br><br>
   <div class="middle">
     <img src="http://thetravelsquare.in/images/The-Travel-Square-Business-B2B.png" height="90" width="250"><br><br><br>
-    <h1><b>SUPPLIER LOGIN</b></h1><br><br>
-    <p>Welcome to The <b>Travel Square Supplier Platform</b> , India's Largest B2B Travel Network.</font>
+    <h1><b>TERMINAL LOGIN</b></h1><br><br>
+    <p>Welcome to The <b>Travel Square Terminal Platform</b> , India's Largest B2B Travel Network.</font>
     </p>
     <br><br>
     <form class="booking-form" method="POST">
