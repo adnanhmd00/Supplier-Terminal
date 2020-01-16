@@ -2,7 +2,7 @@
     header("Access-Control-Allow-Origin: *"); ?>
 
 <?php
-$con = @mysqli_connect("localhost", "root", "asdf1234") or die("Database Connection Fail");
+$con = @mysqli_connect("localhost", "root", "") or die("Database Connection Fail");
 $db = mysqli_select_db($con, "oregonix_ts") or die("Can't find Database");
 ?>
 <?php
