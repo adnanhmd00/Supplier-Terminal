@@ -22,7 +22,7 @@ if (!isset($_SESSION['supplier_id'])) {
           ?>
       <SCRIPT LANGUAGE='JavaScript'>
         alert('Please verify your Account Credentials');
-        window.location.href = 'supplier-login.php';
+        window.location.href = 'terminal-login.php';
       </Script>
   <?php
       }
